@@ -1,4 +1,8 @@
-### Hi there 👋
+![github banner](https://user-images.githubusercontent.com/76208848/180754728-c21c8eea-af86-4930-8ebf-28c6ceeeaa50.png)
+
+- 🔭 I’m currently working as software engineer intern at Klevret LTD
+- 🌱 I’m currently learning C#
+
 
 <!--
 **dimitarv23/dimitarv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
