@@ -1,14 +1,15 @@
 ![github banner](https://user-images.githubusercontent.com/76208848/180754728-c21c8eea-af86-4930-8ebf-28c6ceeeaa50.png)
 
-- 🔭 I’m currently working as software engineer intern at Klevret LTD
-- 🌱 I’m currently learning C#
+- 👀 I'm interested in Web Development
+- 🌱 I'm currently learning C# Advanced at SoftUni.bg
+- 📫 How to reach me: dimitarv2004@gmail.com
+
 
 
 <!--
 **dimitarv23/dimitarv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
