@@ -1,8 +1,8 @@
 ![github banner](https://user-images.githubusercontent.com/76208848/180754728-c21c8eea-af86-4930-8ebf-28c6ceeeaa50.png)
 
-- 👀 I'm interested in Web Development
-- 🌱 I'm currently learning C# Advanced at SoftUni.bg
-- 📫 How to reach me: dimitarv2004@gmail.com
+👀 I'm interested in Web Development
+🌱 I'm currently learning C# Advanced at SoftUni.bg
+📫 How to reach me: dimitarv2004@gmail.com
 
 
 
