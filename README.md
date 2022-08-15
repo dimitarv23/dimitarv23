@@ -6,7 +6,7 @@
 
 📫 How to reach me: dimitarv2004@gmail.com
 
-##🎓Certificates
+## 🎓Certificates
 [Programming Basics with C#](https://softuni.bg/Certificates/Details/124141/b458e543)
 
 [Programming Fundamentals with C#](https://softuni.bg/Certificates/Details/139432/8ae64d41)
