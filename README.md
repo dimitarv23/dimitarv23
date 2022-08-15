@@ -6,7 +6,10 @@
 
 📫 How to reach me: dimitarv2004@gmail.com
 
+##🎓Certificates
+[Programming Basics with C#](https://softuni.bg/Certificates/Details/124141/b458e543)
 
+[Programming Fundamentals with C#](https://softuni.bg/Certificates/Details/139432/8ae64d41)
 
 <!--
 **dimitarv23/dimitarv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
