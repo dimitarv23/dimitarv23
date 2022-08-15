@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning C# Advanced at [SoftUni](https://softuni.bg/)
 
-📫 How to reach me: dimitarv2004@gmail.com
+📫 How to reach me: [dimitarv2004@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhWpbslLpbsGjTJlcMlNPkHsCxXDqlfnKGkZhRVLDxcHxtthgDsWkVCClgzKvQdQgLLq)
 
 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/dimitar-vasilev-a38b65235/)
 
