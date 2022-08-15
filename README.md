@@ -5,11 +5,12 @@
 
 🌱 I'm currently learning C# Advanced at [SoftUni](https://softuni.bg/)
 
-📫 How to reach me: [dimitarv2004@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhWpbslLpbsGjTJlcMlNPkHsCxXDqlfnKGkZhRVLDxcHxtthgDsWkVCClgzKvQdQgLLq)
-
-💬 You can find me on [LinkedIn](https://www.linkedin.com/in/dimitar-vasilev-a38b65235/)
-
 ## 🎓 Certificates
 [Programming Basics with C#](https://softuni.bg/Certificates/Details/124141/b458e543)
 
 [Programming Fundamentals with C#](https://softuni.bg/Certificates/Details/139432/8ae64d41)
+
+## 📫 How to reach me
+[dimitarv2004@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhWpbslLpbsGjTJlcMlNPkHsCxXDqlfnKGkZhRVLDxcHxtthgDsWkVCClgzKvQdQgLLq)
+
+[LinkedIn Profile](https://www.linkedin.com/in/dimitar-vasilev-a38b65235/)
