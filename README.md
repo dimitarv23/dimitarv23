@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently learning C# Advanced at [SoftUni](https://softuni.bg/)
+🌱 I'm currently learning C# OOP at [SoftUni](https://softuni.bg/)
 
 ## 🎓 Certificates
 [Programming Basics with C#](https://softuni.bg/Certificates/Details/124141/b458e543)
