@@ -12,6 +12,8 @@
 
 [C# Advanced](https://softuni.bg/certificates/details/144022/09847da2)
 
+[C# OOP](https://softuni.bg/Certificates/Details/150776/f940927c)
+
 ## 📫 How to reach me
 [dimitarv2004@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhWpbslLpbsGjTJlcMlNPkHsCxXDqlfnKGkZhRVLDxcHxtthgDsWkVCClgzKvQdQgLLq)
 
