@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently studying MS SQL at [SoftUni](https://softuni.bg/)
+🌱 I'm currently studying Entity Framework Core at [SoftUni](https://softuni.bg/)
 
 ## 🎓 Certificates
 ### SoftUni
