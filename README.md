@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently studying Entity Framework Core at [SoftUni](https://softuni.bg/)
+🌱 I'm currently studying C# Web at [SoftUni](https://softuni.bg/)
 
 ## 🎓 Certificates
 ### SoftUni
@@ -16,6 +16,8 @@
 [C# OOP](https://softuni.bg/Certificates/Details/150776/f940927c)
 
 [MS SQL](https://softuni.bg/Certificates/Details/157935/e36ff89d)
+
+[Entity Framework Core](https://softuni.bg/Certificates/Details/164952/239d8fac)
 
 ### HackerRank
 [C# (Basic)](https://www.hackerrank.com/certificates/4098281c32b3)
