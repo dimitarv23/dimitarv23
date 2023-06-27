@@ -19,6 +19,8 @@
 
 [Entity Framework Core](https://softuni.bg/Certificates/Details/164952/239d8fac)
 
+[C# Web Fundamentals](https://softuni.bg/Certificates/Details/175427/3dbb302b)
+
 ### HackerRank
 [C# (Basic)](https://www.hackerrank.com/certificates/4098281c32b3)
 
