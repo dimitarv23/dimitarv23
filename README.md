@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently studying C# Web at [SoftUni](https://softuni.bg/)
+🌱 I'm currently learning Javascript
 
 ## 🎓 Certificates
 ### SoftUni
