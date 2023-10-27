@@ -23,6 +23,8 @@
 
 [ASP.NET Advanced](https://softuni.bg/Certificates/Details/182290/649811e7)
 
+[HTML and CSS](https://softuni.bg/certificates/details/190934/fb989a96)
+
 ### HackerRank
 [C# (Basic)](https://www.hackerrank.com/certificates/4098281c32b3)
 
