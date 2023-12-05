@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently learning Javascript
+🌱 I'm currently learning ReactJS
 
 ## 🎓 Certificates
 ### SoftUni
