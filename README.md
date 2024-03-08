@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 👀 I'm interested in Web Development
 
-🌱 I'm currently learning ReactJS
+🌱 I'm currently working as a Full-Stack developer
 
 ## 🎓 Certificates
 ### SoftUni
@@ -26,6 +26,8 @@
 [HTML and CSS](https://softuni.bg/certificates/details/190934/fb989a96)
 
 [JS Front-End](https://softuni.bg/Certificates/Details/199241/2cc215d7)
+
+[Containers and Cloud](https://softuni.bg/Certificates/Details/207018/a37ac3ca)
 
 ### HackerRank
 [C# (Basic)](https://www.hackerrank.com/certificates/4098281c32b3)
