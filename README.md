@@ -29,6 +29,8 @@
 
 [Containers and Cloud](https://softuni.bg/Certificates/Details/207018/a37ac3ca)
 
+[Software Engineering and DevOps](https://softuni.bg/Certificates/Details/213370/29ae3a44)
+
 ### HackerRank
 [C# (Basic)](https://www.hackerrank.com/certificates/4098281c32b3)
 
